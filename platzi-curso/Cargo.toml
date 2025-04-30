@@ -4,7 +4,8 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+regex = "1.5.5"
 
 [[bin]]
-name = "loop"
-path = "src/loop.rs"
+name = "names"
+path = "src/names.rs"
